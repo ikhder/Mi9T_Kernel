@@ -35,7 +35,7 @@ IMAGE="$KERNEL_DIR/out/$DEVICE_ARCH/boot/Image.gz"
 DTB="$KERNEL_DIR/out/$DEVICE_ARCH/boot/dtb.img"
 DTBO="$KERNEL_DIR/out/$DEVICE_ARCH/boot/dtbo.img"
 
-export KBUILD_BUILD_USER=SchweGELBin
+export KBUILD_BUILD_USER=ikhder
 export KBUILD_BUILD_HOST=GitHubCI
 
 # Highlight
